@@ -12,4 +12,4 @@ This application allows user to do different actions:
 4. View cart
 5. Pay for products (just emulation of payment without real billing)
 
-Depending on chosen action user are guided through different actions andp possibilities, to do not get stuck at some point.
+Depending on chosen action user are guided through different actions and possibilities, to do not get stuck at some point.
