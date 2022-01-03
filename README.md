@@ -4,6 +4,7 @@ When you run application it connects with API (PHP file that porduces JSON array
 For a future development a real payment can be added to application, with shipping and with purchase info storage. Also data about updated products could be sent out to a source API website with updated product info to exchange products/purchases data.
 
 This application allows user to do different actions:
+
 0. Exit shop
 1. Review products (with description)
 2. Review products (short version for quick view)
