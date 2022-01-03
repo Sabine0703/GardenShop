@@ -7,7 +7,7 @@ This application allows user to do different actions:
 
 0. Exit shop
 1. Review products (with description)
-2. Review products (short version for quick view)
+2. Review products (short version for a quick view)
 3. Add to cart
 4. View cart
 5. Pay for products (just emulation of payment without real billing)
