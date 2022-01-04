@@ -13,3 +13,5 @@ This application allows user to do different actions:
 5. Pay for products (just emulation of payment without real billing)
 
 Depending on chosen action user are guided through different actions and possibilities, to do not get stuck at some point.
+
+Note: To tun the application you need to download project files and create empty "gardenshop" database. Then update a credentials in "connectToDatabase()" function with yours.
